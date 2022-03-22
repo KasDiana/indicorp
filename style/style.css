@@ -280,6 +280,12 @@ a{
     padding: 100px 0;
     background: #FFFFFF;
 }
+.section_title.about_title_sm {
+    display: none;
+}
+.section_desc.about_desc_sm {
+    display: none;
+}
 .about_desc {
     margin: 15px auto 100px;
 }
